@@ -1,26 +1,8 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="FontEnd.master.cs" Inherits="fs.FontEnd" %>
-<!DOCTYPE html>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/FrontEnd.Master" AutoEventWireup="true" CodeBehind="dangKy.aspx.cs" Inherits="Miu_sit.WebForm2" %>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-    <title>FS Buy Ticket</title>
-    <link rel="stylesheet" type="text/css" href="App_Themes/Theme/Style.css" />
-    <asp:ContentPlaceHolder ID="head" runat="server">
-    </asp:ContentPlaceHolder>        
-</head>
-<body>
-    <form id="form1" runat="server">
-    <div>
-        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">                    
-        </asp:ContentPlaceHolder>
-    </div>
-   <img src="App_Themes/Theme/images/2.jpg" width="1300" height ="400" class="cangiua" />
-	<div class="call-to-action">
-		<h3>Âm nhạc kết nối chúng ta lại với nhau.</h3>
-		<p>Hãy nhanh tay đăng kí và nhận ngay tấm vé đưa bạn đến với những trải nghiệm âm nhạc tuyệt vời.</p>
-	</div>
-
-	<div id ="phanthan">
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <hi font: bold 250px> Dang Ky</hi>
+    <div id ="phanthan">
 		<div class = "row1">
 			<div id ="user" class ="col1">
 				<form action="Link.html" method="post" name="Nhap Thong tin">
@@ -54,6 +36,4 @@
 			</div>
 		</div>
 	</div><!--phanthan-->
-</form>
-</body>
-</html>
+</asp:Content>

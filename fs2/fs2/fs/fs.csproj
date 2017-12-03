@@ -100,22 +100,35 @@
       <DependentUpon>FSDB.mdf</DependentUpon>
     </Content>
     <Content Include="App_Themes\Theme\images\2.jpg" />
+    <Content Include="App_Themes\Theme\images\bts.jpg" />
+    <Content Include="App_Themes\Theme\images\ed-sheeran-gettyimages-494227430_1600jpg.jpg" />
     <Content Include="App_Themes\Theme\images\gift.jpg" />
+    <Content Include="App_Themes\Theme\images\Jaesuk.jpg" />
+    <Content Include="App_Themes\Theme\images\JoeJonas.jpg" />
+    <Content Include="App_Themes\Theme\images\Justin-Bieber.png" />
     <Content Include="App_Themes\Theme\images\logo.jpg" />
+    <Content Include="App_Themes\Theme\images\poster.jpg" />
+    <Content Include="App_Themes\Theme\images\rsz_poster.png" />
+    <Content Include="App_Themes\Theme\images\Sunmi.png" />
+    <Content Include="App_Themes\Theme\images\taylor-swift-5.jpg" />
+    <Content Include="dangKy.aspx" />
+    <Content Include="dangNhap.aspx" />
+    <Content Include="Default.aspx" />
+    <Content Include="fShop.aspx" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <SubType>Designer</SubType>
     </Content>
-    <Content Include="FontEnd.Master" />
-    <Content Include="TrangBanVe.aspx" />
-    <Content Include="WebForm2.aspx" />
+    <Content Include="WebUserControl\wucMenuNgang.ascx" />
+    <Content Include="FrontEnd.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+    <Content Include="Web.sitemap" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Themes\Theme\Style.css" />
@@ -124,32 +137,51 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FontEnd.Master.cs">
-      <DependentUpon>FontEnd.Master</DependentUpon>
+    <Compile Include="dangKy.aspx.cs">
+      <DependentUpon>dangKy.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="FontEnd.Master.designer.cs">
-      <DependentUpon>FontEnd.Master</DependentUpon>
+    <Compile Include="dangKy.aspx.designer.cs">
+      <DependentUpon>dangKy.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="dangNhap.aspx.cs">
+      <DependentUpon>dangNhap.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="dangNhap.aspx.designer.cs">
+      <DependentUpon>dangNhap.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FrontEnd.Master.cs">
+      <DependentUpon>FrontEnd.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FrontEnd.Master.designer.cs">
+      <DependentUpon>FrontEnd.Master</DependentUpon>
+    </Compile>
+    <Compile Include="fShop.aspx.cs">
+      <DependentUpon>fShop.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="fShop.aspx.designer.cs">
+      <DependentUpon>fShop.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TrangBanVe.aspx.cs">
-      <DependentUpon>TrangBanVe.aspx</DependentUpon>
+    <Compile Include="WebUserControl\wucMenuNgang.ascx.cs">
+      <DependentUpon>wucMenuNgang.ascx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="TrangBanVe.aspx.designer.cs">
-      <DependentUpon>TrangBanVe.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="WebForm2.aspx.cs">
-      <DependentUpon>WebForm2.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="WebForm2.aspx.designer.cs">
-      <DependentUpon>WebForm2.aspx</DependentUpon>
+    <Compile Include="WebUserControl\wucMenuNgang.ascx.designer.cs">
+      <DependentUpon>wucMenuNgang.ascx</DependentUpon>
     </Compile>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Webusercontrol\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

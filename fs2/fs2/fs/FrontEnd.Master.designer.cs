@@ -7,10 +7,10 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace fs {
+namespace Miu_sit {
     
     
-    public partial class FontEnd {
+    public partial class Default {
         
         /// <summary>
         /// head control.
@@ -29,6 +29,15 @@ namespace fs {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
+        
+        /// <summary>
+        /// wucMenuNgang1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::Miu_sit.WebUserControl.wucMenuNgang wucMenuNgang1;
         
         /// <summary>
         /// ContentPlaceHolder1 control.

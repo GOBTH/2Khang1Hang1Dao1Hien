@@ -7,11 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace fs
+namespace Miu_sit
 {
 
 
-    public partial class WebForm2
+    public partial class WebForm4
     {
     }
 }
