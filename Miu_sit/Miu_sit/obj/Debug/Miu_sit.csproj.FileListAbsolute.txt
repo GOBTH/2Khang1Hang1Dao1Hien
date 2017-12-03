@@ -1,0 +1,9 @@
+F:\HKI nam 3\Miu_sit\Miu_sit\bin\Miu_sit.dll.config
+F:\HKI nam 3\Miu_sit\Miu_sit\bin\Miu_sit.dll
+F:\HKI nam 3\Miu_sit\Miu_sit\bin\Miu_sit.pdb
+F:\HKI nam 3\Miu_sit\Miu_sit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\HKI nam 3\Miu_sit\Miu_sit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\HKI nam 3\Miu_sit\Miu_sit\obj\Debug\Miu_sit.csprojResolveAssemblyReference.cache
+F:\HKI nam 3\Miu_sit\Miu_sit\obj\Debug\Miu_sit.csproj.CoreCompileInputs.cache
+F:\HKI nam 3\Miu_sit\Miu_sit\obj\Debug\Miu_sit.dll
+F:\HKI nam 3\Miu_sit\Miu_sit\obj\Debug\Miu_sit.pdb
