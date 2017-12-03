@@ -1,82 +1,87 @@
 ﻿/*==Style cơ bản trong website==*/
-*{
-	box-sizing: border-box;
-	-moz-box-sizing:border-box;
-	-webkit-box-sizing: border-box;
-	background-color: #FFDEAD;
+* {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    background-color: #F8F8F8;
 }
 
-body{
-	font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-weight: 300;
-	color: black;
-	line-height: 1.254;
-	margin: 0;
-
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    color: black;
+    line-height: 1.254;
+    margin: 0;
 }
-img.cangiua {display: block; margin-left: auto; margin-right: auto;margin-top: 2em;}
+
+img.cangiua {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+}
 
 
-.call-to-action{
-	text-align: center;
+.call-to-action {
+    text-align: center;
 }
 /*==Phan thân==*/
 input[type='text'] {
     width: 400px;
     height: 50px;
-    border   : 1px solid red;
-    background-color : white;
+    border: 1px solid red;
+    background-color: white;
     font-family: Times;
-    font-size  : 24px;
+    font-size: 24px;
     margin-left: 1em;
 }
 
 input[type='date'] {
-	width: 200px;
+    width: 200px;
     height: 40px;
-    border : 1px solid red;
-    background-color :  white;
+    border: 1px solid red;
+    background-color: white;
     font-family: Times;
-    font-size  : 24px;
+    font-size: 24px;
     margin-left: 1em;
 }
 
-input[type='number']{
-	width: 100px;
+input[type='number'] {
+    width: 100px;
     height: 40px;
-    border : 1px solid red;
-    background-color :  white;
+    border: 1px solid red;
+    background-color: white;
     font-family: Times;
-    font-size  : 24px;
+    font-size: 24px;
     margin-left: 1em;
 }
-input[type='radio']{
-	margin-left: 1em;
+
+input[type='radio'] {
+    margin-left: 1em;
 }
 
-.row1{
-	overflow: hidden;
-	margin: 3em auto;
-	font-size: 1.5em;
-	margin-left:  40px ;
-	margin-right: 40px;
-	padding: 40px;
-	border: 2px solid #ff0000;
-
+.row1 {
+    overflow: hidden;
+    margin: 3em auto;
+    font-size: 1.5em;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 40px;
+    border: 2px solid #ff0000;
 }
 
-.row1 .col1 {
-	float: left;
-	margin-left: 3em;
-}
-.row1 .col1:last-child{
-	float:right;
-	margin-right: 3em;
+    .row1 .col1 {
+        float: left;
+        margin-left: 3em;
+    }
 
-}
+        .row1 .col1:last-child {
+            float: right;
+            margin-right: 3em;
+        }
 
-.row1 .col1 p{
-	font-family: Times;
-    font-size  : 24px;
-    color: red;
-}
+        .row1 .col1 p {
+            font-family: Times;
+            font-size: 24px;
+            color: red;
+        }
