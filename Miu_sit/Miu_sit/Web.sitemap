@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
-  <siteMapNode url="~/Default.aspx" title="Trang chủ    "  description="phô lô">
-    <siteMapNode url="~/dangNhap.aspx" title="Đăng nhập    "  description="" />
-    <siteMapNode url="~/dangKy.aspx" title="Đăng ký    "  description="" />
-    <siteMapNode url="~/fShop.aspx" title="FShop"  description="" />
-  </siteMapNode>
-</siteMap>  

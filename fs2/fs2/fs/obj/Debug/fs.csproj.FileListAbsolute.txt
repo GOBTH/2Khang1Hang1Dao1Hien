@@ -32,3 +32,37 @@ D:\HK I 2017-2018\NMCNPM\Git\2Khang1Hang1Dao1Hien\fs2\fs2\fs\obj\Debug\fs.csproj
 D:\HK I 2017-2018\NMCNPM\Git\2Khang1Hang1Dao1Hien\fs2\fs2\fs\obj\Debug\fs.csproj.CoreCompileInputs.cache
 D:\HK I 2017-2018\NMCNPM\Git\2Khang1Hang1Dao1Hien\fs2\fs2\fs\obj\Debug\fs.dll
 D:\HK I 2017-2018\NMCNPM\Git\2Khang1Hang1Dao1Hien\fs2\fs2\fs\obj\Debug\fs.pdb
+C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\ApplicationInsights.config
+C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\roslyn\csc.exe
+C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\roslyn\vbc.exe
+C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\fs.dll.config
+C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\fs.dll
+C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\fs.pdb
+C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\Microsoft.AI.Web.dll
+C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\Microsoft.AI.Web.xml
+C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\obj\Debug\fs.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\obj\Debug\fs.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\obj\Debug\fs.dll
+C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\obj\Debug\fs.pdb
