@@ -142,3 +142,46 @@ input[type='radio'] {
     font: italic bold 35px;
     float: left;
 }
+
+input[type='password'] {
+    width: 400px;
+    height: 50px;
+    border: 1px solid red;
+    background-color: white;
+    font-family: Times;
+    font-size: 24px;
+    margin-left: 1em;
+}
+button {
+  border: none;
+  background: #1abc9c;
+  cursor: pointer;
+  border-radius: 3px;
+  padding: 6px;
+  width: 200px;
+  color: white;
+  margin-left: 25px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.2);
+}
+button:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 6px 0 rgba(0, 0, 0, 0.2);
+}
+input:focus, input:valid {
+  box-shadow: none;
+  outline: none;
+  background-position: 0 0;
+}
+input:focus::-webkit-input-placeholder, input:valid::-webkit-input-placeholder {
+  color: #1abc9c;
+  font-size: 11px;
+  transform: translateY(-20px);
+  visibility: visible !important;
+}
+#dangnhap{
+   border-width: 1px;
+   border-style: solid;
+   width: 600px;
+   height: 350px;
+   background-color:antiquewhite;
+}

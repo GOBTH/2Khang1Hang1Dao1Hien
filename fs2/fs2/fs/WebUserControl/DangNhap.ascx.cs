@@ -5,9 +5,9 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace fs
+namespace fs.WebUserControl
 {
-    public partial class WebForm1 : System.Web.UI.Page
+    public partial class wucDangNhap : System.Web.UI.UserControl
     {
         protected void Page_Load(object sender, EventArgs e)
         {
