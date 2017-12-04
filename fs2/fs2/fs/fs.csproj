@@ -125,6 +125,7 @@
     <Content Include="App_Themes\Theme\images\rsz_poster.png" />
     <Content Include="App_Themes\Theme\images\Sunmi.png" />
     <Content Include="App_Themes\Theme\images\taylor-swift-5.jpg" />
+    <Content Include="dangKiTK.aspx" />
     <Content Include="dangKy.aspx" />
     <Content Include="Default.aspx" />
     <Content Include="fShop.aspx" />
@@ -136,6 +137,7 @@
     <Content Include="dangNhap.aspx" />
     <Content Include="WebUserControl\WebUserControl1.ascx" />
     <Content Include="WebUserControl\DangNhap.ascx" />
+    <Content Include="WebUserControl\WebUserControl2.ascx" />
     <Content Include="WebUserControl\wucMenuNgang.ascx" />
     <Content Include="FrontEnd.Master" />
     <None Include="Web.Debug.config">
@@ -153,6 +155,13 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="dangKiTK.aspx.cs">
+      <DependentUpon>dangKiTK.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="dangKiTK.aspx.designer.cs">
+      <DependentUpon>dangKiTK.aspx</DependentUpon>
+    </Compile>
     <Compile Include="dangKy.aspx.cs">
       <DependentUpon>dangKy.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -202,6 +211,13 @@
     </Compile>
     <Compile Include="WebUserControl\DangNhap.ascx.designer.cs">
       <DependentUpon>DangNhap.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="WebUserControl\WebUserControl2.ascx.cs">
+      <DependentUpon>WebUserControl2.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebUserControl\WebUserControl2.ascx.designer.cs">
+      <DependentUpon>WebUserControl2.ascx</DependentUpon>
     </Compile>
     <Compile Include="WebUserControl\wucMenuNgang.ascx.cs">
       <DependentUpon>wucMenuNgang.ascx</DependentUpon>
