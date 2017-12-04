@@ -124,18 +124,21 @@ input[type='radio'] {
     float: right;
 }
 
-#content
-{
+#content {
     width: 1920px;
     min-height: 1080px;
+    background-color: #F8F8F8;
+    float: left;
 }
 
 #footer {
     background-color: #808080;
     background-repeat: repeat;
     height: 50px;
+    width: 1620px;
     line-height: 50px;
     text-align: center;
     margin: 5px;
     font: italic bold 35px;
+    float: left;
 }

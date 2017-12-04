@@ -66,3 +66,45 @@ C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\obj\Debug\fs.cspr
 C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\obj\Debug\fs.csproj.CoreCompileInputs.cache
 C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\obj\Debug\fs.dll
 C:\Users\ASUS\Documents\GitHub\2Khang1Hang1Dao1Hien\fs2\fs2\fs\obj\Debug\fs.pdb
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\ApplicationInsights.config
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\roslyn\csc.exe
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\roslyn\System.Collections.Immutable.dll
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\roslyn\System.Reflection.Metadata.dll
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\roslyn\vbc.exe
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\roslyn\VBCSCompiler.exe
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\roslyn\VBCSCompiler.exe.config
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\Microsoft.AI.Agent.Intercept.dll
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\Microsoft.AI.DependencyCollector.dll
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\Microsoft.AI.Web.dll
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\Microsoft.AI.WindowsServer.dll
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\Microsoft.ApplicationInsights.dll
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\Microsoft.AI.DependencyCollector.xml
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\Microsoft.AI.Web.xml
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\Microsoft.AI.WindowsServer.xml
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\Microsoft.ApplicationInsights.xml
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\obj\Debug\fs.csprojResolveAssemblyReference.cache
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\obj\Debug\fs.csproj.CoreCompileInputs.cache
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\obj\Debug\fs.dll
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\obj\Debug\fs.pdb
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\fs.dll.config
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\fs.dll
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\fs.pdb
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\Newtonsoft.Json.dll
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\System.Net.Http.Formatting.dll
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\System.Web.Http.dll
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\System.Web.Http.WebHost.dll
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\Newtonsoft.Json.xml
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\System.Net.Http.Formatting.xml
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\System.Web.Http.xml
+D:\HK I 2017-2018\NMCNPM\New folder\2Khang1Hang1Dao1Hien\fs2\fs2\fs\bin\System.Web.Http.WebHost.xml

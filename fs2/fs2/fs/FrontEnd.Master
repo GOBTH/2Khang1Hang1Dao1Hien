@@ -20,7 +20,7 @@
             </div>
             <div id="sidebar">
                 <div id="leftsidebar">
-                    <iframe width="700" height="300" src="https://www.youtube.com/embed/74gx0v5ZJzw?autoplay=1"></iframe>
+                   <iframe width="560" height="315" src="https://www.youtube.com/embed/DYNrij6I-A4" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
                 </div>
                 <div id="rightsidebar"></div>
             </div>
