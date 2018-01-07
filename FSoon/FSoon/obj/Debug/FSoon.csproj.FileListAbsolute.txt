@@ -1,0 +1,27 @@
+C:\Users\Hang\Downloads\FSoon\FSoon\bin\FSoon.dll.config
+C:\Users\Hang\Downloads\FSoon\FSoon\bin\FSoon.dll
+C:\Users\Hang\Downloads\FSoon\FSoon\bin\FSoon.pdb
+C:\Users\Hang\Downloads\FSoon\FSoon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hang\Downloads\FSoon\FSoon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hang\Downloads\FSoon\FSoon\obj\Debug\FSoon.csprojResolveAssemblyReference.cache
+C:\Users\Hang\Downloads\FSoon\FSoon\obj\Debug\FSoon.csproj.CoreCompileInputs.cache
+C:\Users\Hang\Downloads\FSoon\FSoon\obj\Debug\FSoon.dll
+C:\Users\Hang\Downloads\FSoon\FSoon\obj\Debug\FSoon.pdb
+C:\Users\Hang\Desktop\FSoon\FSoon\bin\FSoon.dll.config
+C:\Users\Hang\Desktop\FSoon\FSoon\bin\FSoon.dll
+C:\Users\Hang\Desktop\FSoon\FSoon\bin\FSoon.pdb
+C:\Users\Hang\Desktop\FSoon\FSoon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hang\Desktop\FSoon\FSoon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hang\Desktop\FSoon\FSoon\obj\Debug\FSoon.csprojResolveAssemblyReference.cache
+C:\Users\Hang\Desktop\FSoon\FSoon\obj\Debug\FSoon.csproj.CoreCompileInputs.cache
+C:\Users\Hang\Desktop\FSoon\FSoon\obj\Debug\FSoon.dll
+C:\Users\Hang\Desktop\FSoon\FSoon\obj\Debug\FSoon.pdb
+C:\Users\Dell\Desktop\New folder\cuoi cung\FSoon\FSoon\bin\FSoon.dll.config
+C:\Users\Dell\Desktop\New folder\cuoi cung\FSoon\FSoon\bin\FSoon.dll
+C:\Users\Dell\Desktop\New folder\cuoi cung\FSoon\FSoon\bin\FSoon.pdb
+C:\Users\Dell\Desktop\New folder\cuoi cung\FSoon\FSoon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\Desktop\New folder\cuoi cung\FSoon\FSoon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\Desktop\New folder\cuoi cung\FSoon\FSoon\obj\Debug\FSoon.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\New folder\cuoi cung\FSoon\FSoon\obj\Debug\FSoon.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\New folder\cuoi cung\FSoon\FSoon\obj\Debug\FSoon.dll
+C:\Users\Dell\Desktop\New folder\cuoi cung\FSoon\FSoon\obj\Debug\FSoon.pdb
